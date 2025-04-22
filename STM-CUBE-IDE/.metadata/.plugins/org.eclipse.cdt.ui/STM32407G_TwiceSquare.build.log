@@ -1,0 +1,10 @@
+12:30:25 **** Incremental Build of configuration Debug for project STM32407G_TwiceSquare ****
+make -j12 all 
+arm-none-eabi-size  STM32407G_TwiceSquare.elf 
+   text	   data	    bss	    dec	    hex	filename
+  35720	    124	   4124	  39968	   9c20	STM32407G_TwiceSquare.elf
+Finished building: default.size.stdout
+ 
+
+12:30:25 Build Finished. 0 errors, 0 warnings. (took 247ms)
+
