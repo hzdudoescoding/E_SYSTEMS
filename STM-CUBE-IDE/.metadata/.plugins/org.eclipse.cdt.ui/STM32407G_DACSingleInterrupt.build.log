@@ -1,0 +1,10 @@
+13:06:12 **** Incremental Build of configuration Debug for project STM32407G_DACSingleInterrupt ****
+make -j12 all 
+arm-none-eabi-size  STM32407G_DACSingleInterrupt.elf 
+   text	   data	    bss	    dec	    hex	filename
+  38376	    124	   4204	  42704	   a6d0	STM32407G_DACSingleInterrupt.elf
+Finished building: default.size.stdout
+ 
+
+13:06:13 Build Finished. 0 errors, 0 warnings. (took 248ms)
+
